@@ -1,3 +1,3 @@
 # ShoppingCar
 
-Learning From [Imooc][http://www.imooc.com/learn/796]
+Learning From [Imooc](http://www.imooc.com/learn/796)
